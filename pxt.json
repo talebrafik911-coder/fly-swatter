@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "clover": "github:kiki-lee/clover-images"
+        "clover": "github:kiki-lee/clover-images",
+        "darts": "*"
     },
     "files": [
         "main.blocks",
@@ -19,7 +20,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "2.0.63",
+        "target": "4.0.14",
         "targetId": "arcade"
     },
     "supportedTargets": [
